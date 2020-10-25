@@ -1,0 +1,34 @@
+main{
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+.absolute-pos{
+    position: absolute;
+}
+
+//========================//
+
+.white-box{
+    padding:20px 40px;
+    background-color: #ffffff;
+}
+
+.slide1{
+    top:10%;
+    left:0%;
+    opacity: 0;
+}
+
+.slide2{
+    top:10%;
+    left:100%;
+    opacity: 0;
+}
+
+.slide3{
+    top:10%;
+    left:0%;
+    opacity: 0;
+}
